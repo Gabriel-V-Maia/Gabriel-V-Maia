@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
-</div>
+
 
 ###
 
@@ -12,7 +10,7 @@
 
 ###
 
-<p align="left">🖥️ Desenvolvimento de aplicativo + websites<br>🔐 Pentesting<br>🕸️ Segurança Web & Redes<br>⚙️ Engenharia Reversa (exploração binária em geral)<br> 🛠️ Hardware (Em geral, montagem de circuitos, etc...)</p>
+<p align="left">🖥️ Desenvolvimento de aplicativo + websites<br>🔐 Pentesting<br>🕸️ Segurança Web & Redes Neurais<br>⚙️ Engenharia Reversa (exploração binária em geral)<br> 🛠️ Hardware (Em geral, montagem de circuitos, etc...)</p>
 
 ###
 
