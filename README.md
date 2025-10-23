@@ -1,4 +1,4 @@
-
+🇧🇷 🇺🇸
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🖥️ Desenvolvimento de aplicativo + websites<br>🔐 Pentesting<br>🕸️ Segurança Web & Redes Neurais<br>⚙️ Engenharia Reversa (exploração binária em geral)<br> 🛠️ Hardware (Em geral, montagem de circuitos, etc...)</p>
+<p align="left">🖥️ Desenvolvimento de aplicativo + websites<br>🔐 Pentesting<br>🕸️ Segurança Web & Networks<br> 🧠 Inteligência Artificial <br> ⚙️ Engenharia Reversa (exploração binária em geral)<br> 🛠️ Hardware (Em geral, montagem de circuitos, etc...)</p>
 
 ###
 
