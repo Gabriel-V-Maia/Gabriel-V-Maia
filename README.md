@@ -60,3 +60,9 @@
   <img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash&logoColor=white" />
   <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white" />
 </p>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gabriel-V-Maia&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gabriel-V-Maia&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
