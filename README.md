@@ -62,6 +62,7 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gabriel-V-Maia&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com/?user=Gabriel-V-Maia&theme=tokyonight"/<
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gabriel-V-Maia&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
