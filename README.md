@@ -61,9 +61,3 @@
   <img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash&logoColor=white" />
   <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white" />
 </p>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Gabriel-V-Maia&theme=tokyonight"/<
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gabriel-V-Maia&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
