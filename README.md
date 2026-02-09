@@ -27,6 +27,7 @@
   <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black" />
   <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Assembly-00599C?style=flat&logo=gear&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
