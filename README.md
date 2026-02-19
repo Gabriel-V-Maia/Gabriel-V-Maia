@@ -1,9 +1,5 @@
 🇧🇷 🇺🇸
 
-
-<img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=Gabriel-V-Maia&theme=crt">
-
-
 ###
 
 <p align="left">Desenvolvedor Full-Stack | Arquiteto de Sistemas | Pentester<br><br> Gosto de entender sistemas no nível mais baixo possível, foco mais no back-end mas sou capaz de trabalhar ambos front/back-end<br><br>Programo e monto sistemas nos recuros providenciados, do zero.
