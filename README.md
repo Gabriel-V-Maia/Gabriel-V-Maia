@@ -2,15 +2,10 @@
 
 ###
 
-<p align="left">Desenvolvedor Full-Stack<br><br> Gosto de entender sistemas no nível mais baixo possível, foco mais no back-end mas sou capaz de trabalhar ambos front/back-end<br><br>Programo e monto sistemas por prática e aprendizado, sempre me interessei por técnologia e afins, caso eu não conheça alguma coisa eu faço questão de aprender.</p>
+<p align="left">Desenvolvedor Full-Stack | Arquiteto de Sistemas | Pentester<br><br> Gosto de entender sistemas no nível mais baixo possível, foco mais no back-end mas sou capaz de trabalhar ambos front/back-end<br><br>Programo e monto sistemas nos recuros providenciados, do zero.
 
-###
+<i>Qualquer menção ao uso de inteligência artificial nas operações importantíssimas no sistema resultará na revogação imediata do seu acesso ao sistema.</i></p>
 
-<h2 align="left">Meus interesses</h2>
-
-###
-
-<p align="left">🖥️ Desenvolvimento de aplicativo + websites<br>🔐 Pentesting<br>🕸️ Segurança Web & Networks<br> 🧠 Inteligência Artificial <br> ⚙️ Engenharia Reversa (exploração binária em geral)<br> 🛠️ Hardware (Em geral, montagem de circuitos, etc...)</p>
 
 ###
 
@@ -49,8 +44,6 @@
 
 <h2 align="left">Ferramentas & Tecnologias</h2>
 
-###
-
 <p align="left">
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
@@ -61,4 +54,8 @@
   <img src="https://img.shields.io/badge/-Debian-A81D33?style=flat&logo=debian&logoColor=white" />
   <img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash&logoColor=white" />
   <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana&logoColor=white" />
 </p>
+
