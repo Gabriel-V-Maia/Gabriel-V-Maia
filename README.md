@@ -56,12 +56,10 @@
   <img src="https://img.shields.io/badge/Tool-Nginx-informational?style=flat&logo=nginx&color=009639" />
   <img src="https://img.shields.io/badge/Tool-Prometheus-informational?style=flat&logo=prometheus&color=E6522C" />
   <img src="https://img.shields.io/badge/Tool-Grafana-informational?style=flat&logo=grafana&color=F46800" />
-  <img src="https://img.shields.io/badge/System-Kali_Linux-informational?style=flat&logo=kali-linux&color=557C7A" />
   <img src="https://img.shields.io/badge/Tool-Nmap-informational?style=flat&logo=nmap&color=00B16A" />
   <img src="https://img.shields.io/badge/Tool-Metasploit-informational?style=flat&logo=metasploit&color=000000" />
   <img src="https://img.shields.io/badge/Tool-Burp_Suite-informational?style=flat&logo=burpsuite&color=8A3D8C" />
   <img src="https://img.shields.io/badge/Tool-IDA_Pro-informational?style=flat&logo=hex&color=6E7DFF" />
-  <img src="https://img.shields.io/badge/ForFun-Crackmes-informational?style=flat&logo=hackthebox&color=FF8C00" />
 </p>
 
 
