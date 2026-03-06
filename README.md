@@ -25,6 +25,7 @@
   <img src="https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&color=7F52FF" />
   <img src="https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&color=007396" />
   <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB" />
+  <img src="https://img.shields.io/badge/Language-Dart-informational?style=flat&logo=dart&color=0175C2" />
 </p>
 
 ###
@@ -35,6 +36,7 @@
   <img src="https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=flask&color=000000" />
   <img src="https://img.shields.io/badge/Framework-TailwindCSS-informational?style=flat&logo=tailwindcss&color=06B6D4" />
   <img src="https://img.shields.io/badge/Framework-Express-informational?style=flat&logo=express&color=000000" />
+  <img src="https://img.shields.io/badge/Framework-Flutter-informational?style=flat&logo=flutter&color=02569B" />
 </p>
 
 ###
