@@ -12,9 +12,17 @@ jobs:
   update-badge:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - name: Checkout repository
+        uses: actions/checkout@v2
 
-      - uses: p4p1/tryhackme-badge-workflow@main
+      - name: Fetch TryHackMe Badge
+        uses: geeekgod/tryhackme-badge-action@v1.0
         with:
-          username: "gabrielvmaia"
+          image_path: './assets/badge.png'
+          username: 'gabrielvmaia'
+          user_id: '7118340'
+          committer_username: 'Gabriel-V-Maia'
+          committer_email: 'gabrielvinicius.damaia@gmail.com'
+          commit_message: 'ci: updated THM profile badge'
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
