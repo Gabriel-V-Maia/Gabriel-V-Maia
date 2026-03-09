@@ -64,4 +64,4 @@
   <img src="https://img.shields.io/badge/Tool-IDA_Pro-informational?style=flat&logo=hex&color=6E7DFF" />
 </p>
 
-
+[![TryHackMe Badge](./assets/badge.png)](https://tryhackme.com/p/gabrielvmaia)
