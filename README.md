@@ -2,9 +2,9 @@
 
 ###
 
-<p align="left">Desenvolvedor Full-Stack | Arquiteto de Sistemas | Pentester<br><br> Gosto de entender sistemas no nível mais baixo possível, foco mais no back-end mas sou capaz de trabalhar ambos front/back-end<br><br>Programo e monto sistemas nos recuros providenciados com paixão.
+<p align="left">Desenvolvedor Full-Stack | Arquiteto de Sistemas | Pentester<br><br> Gosto de entender sistemas no nível mais baixo possível, foco mais no back-end mas sou capaz de trabalhar ambos front/back-end<br>
 
-<p align="left">Focado em cybersegurança </p>
+<p align="left">Focado em cybersegurança</p>
 
 ###
 
