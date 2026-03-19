@@ -34,6 +34,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=flask&color=000000" />
   <img src="https://img.shields.io/badge/Framework-TailwindCSS-informational?style=flat&logo=tailwindcss&color=06B6D4" />
+  <img src="https://img.shields.io/badge/Framework-Bootstrap-informational?style=flat&logo=bootstrap&color=7952B3" />
   <img src="https://img.shields.io/badge/Framework-Express-informational?style=flat&logo=express&color=000000" />
   <img src="https://img.shields.io/badge/Framework-Flutter-informational?style=flat&logo=flutter&color=02569B" />
 </p>
