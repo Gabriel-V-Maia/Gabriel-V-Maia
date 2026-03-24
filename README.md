@@ -16,10 +16,9 @@ philosophy  = Understand systems at the
               lowest level possible
 
 [current_focus]
-primary     = Cybersecurity & Pen Testing
+primary     = Cybersecurity & Pentesting
 secondary   = Systems Architecture
-learning    = Reverse Engineering
-              Exploit Development
+learning    = Reverse Engineering & cybersec, ISOs and more
 
 [languages]
 low_level   = C · C++ · Assembly · Rust
