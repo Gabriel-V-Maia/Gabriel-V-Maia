@@ -3,9 +3,6 @@
 <tr>
 <td valign="top" width="50%">
 
-<pre>
-$ cat profile.conf
-</pre>
 ```ini
 [identity]
 role        = Full-Stack Developer
