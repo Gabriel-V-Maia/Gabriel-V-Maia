@@ -10,15 +10,67 @@ jobs:
     permissions:
       contents: write
     steps:
+
+      # Header + general activity
       - uses: lowlighter/metrics@latest
         with:
+          filename: metrics.base.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: header, activity, community, repositories
+          base: header, activity, community
+          base_indepth: yes
+          config_timezone: America/Sao_Paulo
+
+      # Language breakdown (indepth scans all repos)
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.languages.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
           plugin_languages: yes
           plugin_languages_indepth: yes
+          plugin_languages_limit: 10
+          plugin_languages_sections: most-used
+          plugin_languages_details: bytes-size, percentage
+          config_timezone: America/Sao_Paulo
+
+      # Full year contribution calendar
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.isocalendar.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+          config_timezone: America/Sao_Paulo
+
+      # Coding habits (best time to code, commit patterns)
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.habits.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
           plugin_habits: yes
+          plugin_habits_from: 200
           plugin_habits_facts: yes
           plugin_habits_charts: yes
+          plugin_habits_trim: yes
           config_timezone: America/Sao_Paulo
+
+      # Starred repos (shows your interests)
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.stars.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_stars: yes
+          plugin_stars_limit: 4
+
+      # Notable contributions to other repos
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.notable.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_notable: yes
+          plugin_notable_indepth: yes
+          plugin_notable_repositories: yes
