@@ -36,6 +36,10 @@ systems     = Ubuntu · Debian · GCC · CMake
 security    = Nmap · Metasploit
               Burp Suite · IDA Pro
 other       = NPM · Discord.js
+
+[releases]
+apps        = EduQR
+
 ```
 </td>
 <td valign="top" width="50%">
