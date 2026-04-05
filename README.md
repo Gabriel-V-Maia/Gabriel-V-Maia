@@ -38,7 +38,7 @@ security    = Nmap · Metasploit
 other       = NPM · Discord.js
 
 [releases]
-apps        = EduQR
+apps        = EduQR · IssueBoard 
 
 ```
 </td>
