@@ -5,8 +5,7 @@
 
 ```ini
 [identity]
-role        = Full-Stack Developer
-              Systems Architect
+role        = Systems Architect
               Pentester
 focus       = Backend, low-level, security
 philosophy  = Understand systems at the
