@@ -20,7 +20,7 @@ learning    = Reverse Engineering & cybersec, ISOs and more
 low_level   = C · C++ · Assembly · Rust
 backend     = Python · PHP · Java · Kotlin
 frontend    = JavaScript · TypeScript
-              HTML · CSS · Dart
+              HTML · CSS · Dart · Go
 
 [frameworks]
 backend     = Express · Flask
